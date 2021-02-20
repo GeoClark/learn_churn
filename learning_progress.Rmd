@@ -1,7 +1,6 @@
 ---
 title: "Learning_Progress"
 author: "GeoClark"
-date: "2/20/2021"
 output: html_document
 ---
 # 2021 Learning
@@ -15,6 +14,8 @@ After years of working on proprietary projects for my employer I created this Gi
 * Learning Python by Mark Lutz
 * Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelion Geron
 * Plot Amarylis dataset
+* Create bread making dataset
+* add template for plotting azimuthal data on a Rose Plot.
 
 ### Completed Training
   * *Effective Data Storytelling* by Brent Dykes (completed Feb 2021)
