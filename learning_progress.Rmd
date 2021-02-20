@@ -1,0 +1,38 @@
+---
+title: "Learning_Progress"
+author: "GeoClark"
+date: "2/20/2021"
+output: html_document
+---
+# 2021 Learning
+After years of working on proprietary projects for my employer I created this Git profile to share my projects and track my progress as I develop my core competencies. 
+
+  [Rmarkdown tips](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf?_ga=2.260928973.1332295168.1611943840-241221221.1611943840)
+
+### Pending Reading and Projects
+
+* Machine Learning in R
+* Learning Python by Mark Lutz
+* Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelion Geron
+* Plot Amarylis dataset
+
+### Completed Training
+  * *Effective Data Storytelling* by Brent Dykes (completed Feb 2021)
+  * *Handbook of Regression Modeling in People Analytics* by Keith McNulty (completed Feb 2021)
+  * Data Camp (Nov-Dec 2020)
+    + Introduction to writing function in R 
+    + Exploratory data analysis in R
+    + Importing and Cleaning data in R
+    + Intermediate visualization with ggplot
+    + Introduction to visualization with ggplot
+    + Intermediate data importing
+    + Introduction to importing data
+    + Joining data with Dplyr
+    + Data Manipulation with Dplyr
+    + Introduction to Tidyverse
+    + Intermediate R
+    + Introduction to R
+
+
+#### Things I googled
+
