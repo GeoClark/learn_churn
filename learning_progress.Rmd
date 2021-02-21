@@ -8,16 +8,24 @@ After years of working on proprietary projects for my employer I created this Gi
 
   [Rmarkdown tips](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf?_ga=2.260928973.1332295168.1611943840-241221221.1611943840)
 
+ [Rstudio_cheatsheets](https://rstudio.com/resources/cheatsheets/)
+
+
+
 ### Pending Reading and Projects
 
+* Introduction to Statistical Learning in R
 * Machine Learning in R
 * Learning Python by Mark Lutz
+* Introduction to machine learning with Python by Guido and Mueller
 * Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelion Geron
+* R reticulate package [reticulate](https://rstudio.github.io/reticulate/articles/calling_python.html)
+* Kaggle Datasets
 * Plot Amarylis dataset
 * Create bread making dataset
 * add template for plotting azimuthal data on a Rose Plot.
 
-### Completed Training
+### Completed Training (Fall 2020 Onward)
   * *Effective Data Storytelling* by Brent Dykes (completed Feb 2021)
   * *Handbook of Regression Modeling in People Analytics* by Keith McNulty (completed Feb 2021)
   * Data Camp (Nov-Dec 2020)
@@ -36,4 +44,17 @@ After years of working on proprietary projects for my employer I created this Gi
 
 
 #### Things I googled
+
+
+* Data_Wrangling
+  + [TidyVerse](https://dplyr.tidyverse.org/index.html)
+* ggplot
+  + [basics](http://www.sthda.com/english/wiki/ggplot2-essentials)
+  + [geom_ribbons](https://ggplot2.tidyverse.org/reference/geom_ribbon.html)
+
+* Handy Links
+  + [R_for_Data_Science](https://r4ds.had.co.nz/index.html)
+
+* Statistics in R
+  + [DataFlair](https://data-flair.training/blogs/machine-learning-for-r-programming/)
 
