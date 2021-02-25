@@ -14,7 +14,7 @@ After years of working on proprietary projects for my employer I created this Gi
 
 ### Pending Reading and Projects
 
-* Introduction to Statistical Learning in R
+* Introduction to Statistical Learning in R [PDF_LINK](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/601cc86d7f828c4792e0bcae/1612499080032/ISLR+Seventh+Printing.pdf)
 * Machine Learning in R
 * Learning Python by Mark Lutz
 * Introduction to machine learning with Python by Guido and Mueller
