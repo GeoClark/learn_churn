@@ -14,8 +14,8 @@ After years of working on proprietary projects for my employer I created this Gi
 
 ### Pending Reading and Projects
 
-* Introduction to Statistical Learning in R [PDF_LINK](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/601cc86d7f828c4792e0bcae/1612499080032/ISLR+Seventh+Printing.pdf)
-* Introduction to Machine Learning in R by Scott Burger
+* Introduction to Statistical Learning in R (February to present) [PDF_LINK](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/601cc86d7f828c4792e0bcae/1612499080032/ISLR+Seventh+Printing.pdf)
+* Practical Data Science with R by Nina Zumel
 * Learning Python by Mark Lutz
 * Introduction to machine learning with Python by Guido and Mueller
 * Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurelion Geron
@@ -26,6 +26,8 @@ After years of working on proprietary projects for my employer I created this Gi
 * add template for plotting azimuthal data on a Rose Plot.
 
 ### Completed Training (Fall 2020 Onward)
+  * *Introduction to Machine Learning in R* by Scott Burger (completed March 2021)
+
   * *Effective Data Storytelling* by Brent Dykes (completed Feb 2021)
   * *Handbook of Regression Modeling in People Analytics* by Keith McNulty (completed Feb 2021)
   * Data Camp (Nov-Dec 2020)
