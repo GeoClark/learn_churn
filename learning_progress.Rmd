@@ -61,3 +61,15 @@ After years of working on proprietary projects for my employer I created this Gi
 * Statistics in R
   + [DataFlair](https://data-flair.training/blogs/machine-learning-for-r-programming/)
 
+* Base R User Guide
+  + [R_student_guide](https://bookdown.org/dli/rguide/)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  Read Sampling
