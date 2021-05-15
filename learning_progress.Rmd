@@ -14,6 +14,7 @@ After years of working on proprietary projects for my employer I created this Gi
 
 ### Pending Reading and Projects
 
+* Arduino Temperature Control Lab  (May)
 * Introduction to Statistical Learning in R (February to present) [PDF_LINK](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/601cc86d7f828c4792e0bcae/1612499080032/ISLR+Seventh+Printing.pdf)
 * Practical Data Science with R by Nina Zumel
 * Learning Python by Mark Lutz
@@ -64,12 +65,9 @@ After years of working on proprietary projects for my employer I created this Gi
 * Base R User Guide
   + [R_student_guide](https://bookdown.org/dli/rguide/)
   
+
   
   
   
   
-  .
-  
-  __
-  .
   Read Sampling
